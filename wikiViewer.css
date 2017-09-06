@@ -1,0 +1,32 @@
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#title {
+  text-align: center;
+  margin: .5em;
+  margin-bottom: 25px;
+}
+
+#random {
+  margin-left: 830px;
+  margin-bottom: 0;
+  margin-top: 15px;
+  width: 32%;
+}
+
+#searchText {
+  text-align: center;
+  margin-bottom: 10px;
+  margin-left: 700px;
+}
+
+#searchBtn {
+  margin-left: 870px;
+}
+
+.form-control {
+  margin: 5%;
+  width: 50%;
+  margin-left: 65px;
+}
